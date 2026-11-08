@@ -1,4 +1,4 @@
-# Glow & Gleam Health 🩺
+# Glow & Gleam Health 
 
 **Your health. Your wellness. Your glow.**
 
@@ -6,7 +6,7 @@ Glow & Gleam Health is a Java-based healthcare and wellness management applicati
 
 This project is currently a work in progress as I continue developing my Java programming skills and exploring healthcare technology.
 
-## ✨ Features
+##  Features
 
 - **My Health:** Enter and view a basic health profile.
 - **Vitals:** Record and display heart rate information.
@@ -15,14 +15,14 @@ This project is currently a work in progress as I continue developing my Java pr
 - **Wellness:** Track daily water intake, sleep, and exercise.
 - **Input Validation:** Check for invalid age entries.
 
-## 🛠️ Technologies
+##  Technologies
 
 - Java
 - Visual Studio Code
 - Git
 - GitHub
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone this repository:
 
@@ -43,7 +43,7 @@ This project is currently a work in progress as I continue developing my Java pr
    java Main
    ```
 
-## 🎯 Project Goals
+## Project Goals
 
 Future improvements may include:
 
@@ -53,7 +53,7 @@ Future improvements may include:
 - Data storage and retrieval
 - A graphical user interface
 
-## 👩🏽‍💻 About the Developer
+##  About the Developer
 
 Created by **Vera Chidinma Enweana**.
 
@@ -63,6 +63,6 @@ This project reflects my interest in combining technology and healthcare to crea
 
 ---
 
-**Status:** In Progress 🚧
+**Status:** In Progress 
 
 *This is an educational project. It is not intended to provide medical advice or replace professional healthcare systems. Only fictional demonstration data should be used.*
